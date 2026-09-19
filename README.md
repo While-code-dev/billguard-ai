@@ -1,4 +1,3 @@
-# billguard-ai
 # 🧾 BillGuard
 
 ### AI-Powered Bill Auditing & Charge Detection System
@@ -14,7 +13,7 @@ It combines **AI-powered document understanding** with **deterministic Python-ba
 ## 🚀 Live Demo
 
 🌐 **Live Application:**  
-https://YOUR-STREAMLIT-URL.streamlit.app/
+https://billguard-ai-gzbr4p8pjqbjgk8fsyv9fv.streamlit.app/
 
 💻 **GitHub Repository:**  
 https://github.com/While-code-dev/billguard-ai
@@ -33,7 +32,7 @@ Some charges may also be buried among the many lines of a bill, making it diffic
 
 - Incorrect item calculations
 - Quantity × unit-price mismatches
-- Incorrect subtotals
+- Incorrect totals
 - Unexpected additional charges
 - Service or packaging fees
 - Delivery or convenience charges
@@ -49,7 +48,7 @@ BillGuard allows users to simply upload a photo of their bill.
 The system then:
 
 1. 📷 Reads the bill using AI
-2. 🤖 Extracts all relevant billing information
+2. 🤖 Extracts billing information
 3. 🛒 Separates purchased items from taxes and additional charges
 4. 🧮 Recalculates item totals using Python
 5. 🔍 Detects mathematical discrepancies
